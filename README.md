@@ -16,3 +16,5 @@ Project steps I've done:
 The Dashboard I've created can help the business in data-driven decision making by identifying top-performing coffee types, most profitable countries, what are the top buyers in order to analyze their behaviour and how coffee sales evolve over the year.
 
 This project gave me the opportunity to showcase my Excel skills and to create something truly valuable for analyzing sales performance.
+
+![Coffee-sales-dashboard](https://github.com/user-attachments/assets/b18eaa61-4504-4bf0-a606-733bf5e5f6f1)
